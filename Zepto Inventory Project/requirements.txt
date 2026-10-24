@@ -1,0 +1,5 @@
+PostgreSQL 16+
+pgAdmin 4
+Git
+GitHub
+CSV Dataset
